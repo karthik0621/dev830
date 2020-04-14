@@ -1,5 +1,7 @@
 class sample
 {
+void fun()
+
 }
 class demo
 {
